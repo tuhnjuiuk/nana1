@@ -1,5 +1,5 @@
 services:
-  areyouok:
+  danu:
     build: .
     ports:
       - 80:80
